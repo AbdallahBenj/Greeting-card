@@ -30,4 +30,4 @@ Or preview it live here:
 
 🔗 [Live Demo](https://abdallahbenj.github.io/Greeting-card/)
 
-## Celebrate creativity and practice CSS pseudo-classes with style! 🎉💻🌈
+## Celebrate creativity and practice CSS pseudo-classes with style! 🎉💻
